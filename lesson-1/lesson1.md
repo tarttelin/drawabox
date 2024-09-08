@@ -67,7 +67,7 @@
   
 1. [Organic perspective](https://drawabox.com/lesson/1/organicperspective)
 
-   ![Organic perspective 1](organic-perspective1.jpg "Organic perspective)
+   ![Organic perspective 1](organic-perspective1.jpg "Organic perspective")
    [download](organic-perspective1.jpg)
-   ![Organic perspective 2](organic-perspective2.jpg "Organic perspective)
+   ![Organic perspective 2](organic-perspective2.jpg "Organic perspective")
    [download](organic-perspective2.jpg)
